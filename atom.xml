@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Shoot the Moon Films]]></title>
+  <link href="http://www.shootthemoonfilms.com/atom.xml" rel="self"/>
+  <link href="http://www.shootthemoonfilms.com/"/>
+  <updated>2013-12-18T23:30:40-05:00</updated>
+  <id>http://www.shootthemoonfilms.com/</id>
+  <author>
+    <name><![CDATA[Shoot the Moon Films]]></name>
+    <email><![CDATA[info@shootthemoonfilms.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to Shoot the Moon Films]]></title>
+    <link href="http://www.shootthemoonfilms.com/news/2013/12/18/welcome-to-shoot-the-moon-films/"/>
+    <updated>2013-12-18T22:10:16-05:00</updated>
+    <id>http://www.shootthemoonfilms.com/news/2013/12/18/welcome-to-shoot-the-moon-films</id>
+    <content type="html"><![CDATA[<p>Welcome to <strong>Shoot the Moon Films</strong>! This new website is meant to be our
+place to announce new projects and events, and coordinate activities with
+our partners, cast, and crew.</p>
+
+<p>You can also reach us on Facebook at <a href="https://www.facebook.com/ShootTheMoonFilms">https://www.facebook.com/ShootTheMoonFilms</a>
+or on Twitter at <a href="https://twitter.com/STM_Films">@STM_Films</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
