@@ -9,7 +9,7 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "git"
+deploy_default = "openshift"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
@@ -211,6 +211,33 @@ end
 ##############
 # Deploying  #
 ##############
+
+desc "deploy basic rack app to openshift"
+  multitask :openshift do
+    puts "## Deploying to openshift "
+    unless File::exists?(".openshift_failed")
+      Rake::Task[:generate].execute
+    end
+    (Dir["#{deploy_dir}/public/*"]).each { |f| rm_rf(f) }
+    system "cp -R #{public_dir}/* #{deploy_dir}/public"
+    puts "\n## copying #{public_dir} to #{deploy_dir}/public"
+    cd "#{deploy_dir}" do
+      system "git add ."
+      system "git add -u"
+      puts "\n## Committing: Site updated at #{Time.now.utc}"
+      message = "Site updated at #{Time.now.utc}"
+      system "git commit -m '#{message}'"
+      puts "\n## Pushing generated #{deploy_dir} website"
+      system "git push origin #{deploy_branch}"
+      if $? == 0
+        File::delete(".openshift_failed") if File::exists?(".openshift_failed")
+        puts "\n## openshift deploy complete"
+      else
+        File::write(".openshift_failed", "w") unless File::exists?(".heroku_failed")
+        puts "\n## Heroku deploy had a problem."
+      end
+    end
+  end
 
 desc "Default deploy task"
 task :deploy do
