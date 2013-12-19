@@ -17,8 +17,8 @@ $header-border: lighten(#418284, 15) !default;
 $title-color: #f2f2f2 !default;
 $subtitle-color: #ccc !default;
 
-$text-color: #222 !default;
-$text-color-light: #aaa !default;
+$text-color: #eee !default;
+$text-color-light: #fff !default;
 $type-border: #ddd !default;
 
 /* Navigation */
@@ -28,7 +28,7 @@ $nav-color-hover: lighten($nav-color, 25) !default;
 $nav-placeholder: desaturate(darken($nav-bg, 10), 15) !default;
 
 /* Sidebar colors */
-$sidebar-bg: #f2f2f2 !default;
+$sidebar-bg: #888 !default;
 $sidebar-link-color: $link-color !default;
 $sidebar-link-color-hover: $link-color-hover !default;
 $sidebar-link-color-active: $link-color-active !default;
