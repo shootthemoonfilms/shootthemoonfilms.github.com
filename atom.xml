@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Shoot the Moon Films]]></title>
-  <link href="http://www.shootthemoonfilms.com/atom.xml" rel="self"/>
-  <link href="http://www.shootthemoonfilms.com/"/>
-  <updated>2013-12-18T23:30:40-05:00</updated>
-  <id>http://www.shootthemoonfilms.com/</id>
+  <link href="http://shootthemoonfilms.com/atom.xml" rel="self"/>
+  <link href="http://shootthemoonfilms.com/"/>
+  <updated>2013-12-18T23:46:12-05:00</updated>
+  <id>http://shootthemoonfilms.com/</id>
   <author>
     <name><![CDATA[Shoot the Moon Films]]></name>
     <email><![CDATA[info@shootthemoonfilms.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to Shoot the Moon Films]]></title>
-    <link href="http://www.shootthemoonfilms.com/news/2013/12/18/welcome-to-shoot-the-moon-films/"/>
+    <link href="http://shootthemoonfilms.com/news/2013/12/18/welcome-to-shoot-the-moon-films/"/>
     <updated>2013-12-18T22:10:16-05:00</updated>
-    <id>http://www.shootthemoonfilms.com/news/2013/12/18/welcome-to-shoot-the-moon-films</id>
+    <id>http://shootthemoonfilms.com/news/2013/12/18/welcome-to-shoot-the-moon-films</id>
     <content type="html"><![CDATA[<p>Welcome to <strong>Shoot the Moon Films</strong>! This new website is meant to be our
 place to announce new projects and events, and coordinate activities with
 our partners, cast, and crew.</p>
