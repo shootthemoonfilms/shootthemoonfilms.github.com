@@ -5,7 +5,7 @@ title: Searching for the Perfect Meatball (2014)
 
 * Written by [Natasha Darius]
 * Directed by [Jeffrey Buchbinder]
-* Starring [Jonathan Demers], [Natasha Darius], [Nicholas Magrey], [Jennifer Briere], [Curtis Reid], [Debra Siegal], [Elizabeth Verrill]
+* Starring [Jonathan Demers], [Natasha Darius], [Nicholas Magrey], [Jennifer Briere], [Curtis Reid], [Debra Siegel], [Elizabeth Verrill]
 
   [Curtis Reid]: http://www.imdb.com/name/nm4840208/
   [Debra Siegel]: #

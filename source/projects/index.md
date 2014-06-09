@@ -8,7 +8,7 @@ both completed and in-progress film projects.*
 
 ## Feature Films
 
-* [Searching for the Perfect Meatball](/projects/2014-searching-for-the-perfect-meatball.html)
+* [Searching for the Perfect Meatball (2014)](/projects/2014-searching-for-the-perfect-meatball.html)
 * [The Trespasser (2014)](/projects/2014-the-trespasser.html) ([IMDb](http://www.imdb.com/title/tt3065296/))
 
 ## Short Films
