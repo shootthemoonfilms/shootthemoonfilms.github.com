@@ -1,5 +1,0 @@
----
-layout: frontpage
-sidebar: collapse
----
-
