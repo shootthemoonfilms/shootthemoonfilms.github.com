@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Submit Yourself
 ---
 
 <div class="blog-index">
@@ -38,10 +39,3 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 -->
   </article>
 </div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>

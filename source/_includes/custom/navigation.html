@@ -1,8 +1,7 @@
-<ul class="main-navigation">
-  <li><a href="{{ root_url }}/">Home</a></li>
-  <li><a href="{{ root_url }}/about">About</a></li>
-  <li><a href="{{ root_url }}/contact">Contact</a></li>
-  <li><a href="{{ root_url }}/submit">Submit Yourself</a></li>
-  <li><a href="{{ root_url }}/news/archives">News</a></li>
-  <li><a href="{{ root_url }}/atom.xml"><img src='/images/rss.png' /> RSS</a></li>
-</ul>
+<li {% if page.layout == 'frontpage' %}class="active"{% endif %}><a href="{{ root_url }}/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Home</a></li>
+<li {% if page.path contains 'projects' %}class="active"{% endif %}><a href="{{ root_url }}/projects"><span class="glyphicon glyphicon-film" aria-hidden="true"></span> Projects</a></li>
+<li {% if page.path contains 'services' %}class="active"{% endif %}><a href="{{ root_url }}/services"><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Services</a></li>
+<li {% if page.path contains 'submit' %}class="active"{% endif %}><a href="{{ root_url }}/submit"><span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span> Submit Yourself</a></li>
+<li {% if page.path contains 'about' %}class="active"{% endif %}><a href="{{ root_url }}/about"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> About</a></li>
+<li {% if page.path contains 'contact' %}class="active"{% endif %}><a href="{{ root_url }}/contact"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact</a></li>
+<li {% if page.path contains '_posts' %}class="active"{% endif %}><a href="{{ root_url }}/news"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> News</a></li>

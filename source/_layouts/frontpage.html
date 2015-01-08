@@ -1,27 +1,40 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
-<body id='frontpage' class="collapse-sidebar sidebar-footer">
-  <nav role="navigation">{% include navigation.html %}</nav>
+<body id='frontpage'>
 
-  <div id="main">
-    <div id="content">
-      <div>
-        <img src="/images/logo.png" />
-        <article role="article">
-          {{ content | expand_urls: root_url }}
-        </article>
+  <div class="container">
+  {% include navigation.html %}
+
+      <!-- Jumbotron - Index page only -->
+      <div class="jumbotron">
+        <h1>Welcome to <em>Shoot the Moon Films!</em></h1>
+        <p class="lead">This new website is meant to be our place to announce new projects and events, and coordinate activities with our partners, cast, and crew.  You can also reach us on Facebook at <a href="https://www.facebook.com/ShootTheMoonFilms">facebook.com/ShootTheMoonFilms</a> or on Twitter at <a href="https://twitter.com/STM_Films">@STM_Films</a>.</p>
+        <p><a class="btn btn-lg btn-success" href="/contact" role="button">Contact us</a></p>
       </div>
-    </div>
-    {% include ctas.html %}
-    <aside class="sidebar">
-      {% if site.page_asides.size %}
-        {% include_array frontpage_asides %}
-      {% else %}
-        {% include_array default_asides %}
-      {% endif %}
-    </aside>
-  </div>
-  <footer role="contentinfo">{% include footer.html %}</footer>
-  {% include after_footer.html %}
+
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-lg-4">
+          <h2>Production Services</h2>
+          <p>We offer a wide range of pre-production, production, and post-production services for filmmakers and actors alike, including <em>script review</em>, <em>coloring</em>, <em>editing</em>, and <em>headshots</em>.</p>
+          <p><a class="btn btn-primary" href="/services" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-lg-4">
+          <h2>Projects</h2>
+          <p><em>Shoot the Moon Films</em> has completed a number of web series, commercial works, short films, and feature films -- and there are more "in the works".</p>
+          <p><a class="btn btn-primary" href="/projects" role="button">View details &raquo;</a></p>
+       </div>
+        <div class="col-lg-4">
+          <h2>Submit Yourself</h2>
+          <p>Are you an actor, screenwriter, or someone passionate about filmmaking? See if you would work well with us!</p>
+          <p><a class="btn btn-primary" href="/submit" role="button">View details &raquo;</a></p>
+        </div>
+      </div>
+
+{% include footer.html %}
+{% include after_footer.html %}
+
+</div> <!-- container -->
+
 </body>
 </html>
