@@ -13,9 +13,6 @@ body {
 .jumbotron {
   text-align: center;
   background-color: transparent;
-
-  /* Moon background */
-  background-image: url("http://upload.wikimedia.org/wikipedia/commons/b/ba/Summer_moon.jpg");
 }
 .jumbotron p {
   text-shadow: 1px 1px 1px #333;
@@ -23,6 +20,13 @@ body {
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
+}
+
+/* Jumbotron background images */
+
+.bg-index {
+  /* Moon background */
+  background-image: url("http://upload.wikimedia.org/wikipedia/commons/b/ba/Summer_moon.jpg");
 }
 
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
