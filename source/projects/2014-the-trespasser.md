@@ -3,10 +3,14 @@ layout: page
 title: The Trespasser (2014)
 ---
 
-* Written by [Natasha Darius]
-* Directed by [Jeffrey Buchbinder]
-* Starring [Valerie Hines], [Christopher G Pike], [Ange Borges], [Curtis Reid], [Nicholas Magrey], [J.J. Long], [Jennifer Fillingame], [Sophia Khan], [Emmett McMullan], and [Raffaele Colucci]
+ * [IMDb Page]
+ * [Facebook Page]
+ * Written by [Natasha Darius]
+ * Directed by [Jeffrey Buchbinder]
+ * Starring [Valerie Hines], [Christopher G Pike], [Ange Borges], [Curtis Reid], [Nicholas Magrey], [J.J. Long], [Jennifer Fillingame], [Sophia Khan], [Emmett McMullan], and [Raffaele Colucci]
 
+  [IMDb Page]: http://www.imdb.com/title/tt3065296/
+  [Facebook Page]: https://www.facebook.com/TheTrespasserFilm
   [Ange Borges]: http://www.imdb.com/name/nm3916105/
   [Christopher G Pike]: http://www.imdb.com/name/nm3295202/
   [Curtis Reid]: http://www.imdb.com/name/nm4840208/
@@ -21,4 +25,3 @@ title: The Trespasser (2014)
   [Valerie Hines]: http://www.imdb.com/name/nm5380020/
 
 {% youtube MbO-gMBJo5Y %}
-

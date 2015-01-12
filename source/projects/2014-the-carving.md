@@ -5,13 +5,11 @@ title: The Carving (2014)
 
 **Film project for the [2014 Providence 48 Hour Horror Project](http://48hourfilm.com/providence/horror/2014/)**
 
-* [Official IMDb Page]
-* [Facebook Page]
-* Written by [Nicholas Magrey] and [Natasha Darius]
-* Directed by [Jeffrey Buchbinder]
-* Starring [Nicholas Magrey], [Chelle Wright], [Maureen Vlaco],
-  [Brandi Demers], [Elizabeth Verrill], [Curtis Reid],
-  [Keith Murphy], and [Jonathan Demers]
+ * [IMDb Page]
+ * [Facebook Page]
+ * Written by [Nicholas Magrey] and [Natasha Darius]
+ * Directed by [Jeffrey Buchbinder]
+ * Starring [Nicholas Magrey], [Chelle Wright], [Maureen Vlaco], [Brandi Demers], [Elizabeth Verrill], [Curtis Reid], [Keith Murphy], and [Jonathan Demers]
 
 **Winner of the 2014 Providence 48 Hour Horror Project for:**
 
@@ -20,7 +18,7 @@ title: The Carving (2014)
  * Best Writing : [Natasha Darius] and [Nicholas Magrey]
  * Best Picture
 
-  [Official IMDb Page]: http://www.imdb.com/title/tt4131910/
+  [IMDb Page]: http://www.imdb.com/title/tt4131910/
   [Facebook Page]: http://www.facebook.com/TheCarving/
   [Aaron Theodore Berton]: http://www.imdb.com/name/nm6854894/
   [Brandi Demers]: http://www.imdb.com/name/nm6562108/
@@ -33,4 +31,3 @@ title: The Carving (2014)
   [Nicholas Magrey]: http://www.imdb.com/name/nm3895408/
 
 {% youtube l4OQm1J0F0w %}
-

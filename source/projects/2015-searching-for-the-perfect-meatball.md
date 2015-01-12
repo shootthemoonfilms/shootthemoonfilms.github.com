@@ -3,7 +3,7 @@ layout: page
 title: Searching for the Perfect Meatball (2015)
 ---
 
-* [Official IMDb Page]
+* [IMDb Page]
 * [Facebook Page]
 * Written by [Natasha Darius]
 * Directed by [Jeffrey Buchbinder]
@@ -21,4 +21,3 @@ title: Searching for the Perfect Meatball (2015)
   [Nicholas Magrey]: http://www.imdb.com/name/nm3895408/
 
 {% youtube myZAz4Io8GA %}
-
