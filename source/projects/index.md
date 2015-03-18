@@ -21,7 +21,7 @@ both completed and in-progress film projects.*
 
 ## Web Series
 
- * [The Cold Read (2013)(/projects/2013-the-cold-read.html) ([IMDb](http://www.imdb.com/title/tt2773070/)) -- in association with "Lower End Films"
+ * [The Cold Read (2013)](/projects/2013-the-cold-read.html) ([IMDb](http://www.imdb.com/title/tt2773070/)) -- in association with "Lower End Films"
 
 ## Commercial Projects
 

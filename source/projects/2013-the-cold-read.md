@@ -12,7 +12,9 @@ title: The Cold Read (2013)
 
   [Ange Borges]: http://www.imdb.com/name/nm3916105/
   [Anna Rizzo]: http://www.imdb.com/name/nm5042825/
+  [Brian Farmer]: http://www.imdb.com/name/nm4492303/
   [Curtis Reid]: http://www.imdb.com/name/nm4840208/
+  [Jeffrey Buchbinder]: http://www.imdb.com/name/nm5283658/
   [Jenna McGowan]: http://www.imdb.com/name/nm5197877/
   [Madeleine McKenzie]: http://www.imdb.com/name/nm5080751/
   [Mike Veino]: http://www.imdb.com/name/nm5337335/
@@ -20,6 +22,6 @@ title: The Cold Read (2013)
 
 ## Awards
 
- * Winner of "Outstanding Writing", "Outstanding Guest Actor", "Outstanding Mockumentary Series" and "Outstanding Actress" at the 2014 LA Web Series Festival.
+ * Winner of "Outstanding Writing", "Outstanding Guest Actor", "Outstanding Mockumentary Series" and "Outstanding Actress" at the 2014 [LA Web Series Festival](http://lawebfest.com/).
 
 {% youtube -h5IiOatK6w %}
