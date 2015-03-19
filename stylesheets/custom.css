@@ -69,6 +69,8 @@ body {
   border-radius: 0 0 5px 5px;
 }
 
+/* Navbar new format */
+
 .navbar-nav > .active > a {
   background: #337ab7;
   color: #fff;
@@ -79,6 +81,13 @@ body {
   background: #aaa;
   border-radius: 5px;
 }
+
+/* Time tag formatting */
+
+time {
+  font-style: italic;
+}
+time:before { content: "Published "; }
 
 .byline {
   font-style: italic;
