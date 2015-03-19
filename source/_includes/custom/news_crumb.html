@@ -1,5 +1,5 @@
 <ol class="breadcrumb">
-  {% capture post_date %}{{ post.date | date: "%Y-%m-%d" }}{% endcapture %}
+  {% capture post_date %}{{ page.date | date: "%Y-%m-%d" }}{% endcapture %}
   <li><a href="{{ root_url }}/">Home</a></li>
   <li><a href="{{ root_url }}/news">News</a></li>
   <li class="active">{{ page.title }} ({{ post_date }})</li>
