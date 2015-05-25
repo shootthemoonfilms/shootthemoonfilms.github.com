@@ -1,4 +1,6 @@
-<meta property="og:url"         content="{{ site.url }}{{ page.url }}" />
+{% if page.url %}
+<meta property="og:url"         content="{{ site.url }}{{ page.url | remove:'index.html' }}" />
+{% endif %}
 <meta property="og:type"        content="article" />
 <meta property="og:locale"      content="en_US" />
 <meta property="og:site_name"   content="Shoot the Moon Films" />
@@ -24,3 +26,7 @@
  {% endif %}
 {% endif %}
 <meta property="fb:app_id"      content="791025914276308" />
+
+<meta name="twitter:card"       content="summary" />
+<meta name="twitter:site"       content="@STM_Films" />
+<meta name="twitter:creator"    content="@STM_Films" />
