@@ -8,7 +8,7 @@ ssh_user       = "ourexchange@173.236.185.29"
 ssh_port       = "22"
 document_root  = "/home/ourexchange/shootthemoonfilms.com/"
 rsync_delete   = false
-rsync_args     = ""  # Any extra arguments to pass to rsync
+rsync_args     = "--chmod=ugo=rwX"  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
