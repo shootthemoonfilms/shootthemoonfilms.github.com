@@ -5,11 +5,15 @@ title: The Cold Read (2013)
 
 *In association with Lower End Films*
 
+ * [IMDb Page]
+ * [Facebook Page]
  * Created by [Brian Farmer] and [Curtis Reid]
  * Written by [Brian Farmer]
  * Directed by [Jeffrey Buchbinder]
  * Starring [Curtis Reid], [Brian Farmer], [Ange Borges], [Jenna McGowan], [Anna Rizzo], [Valerie Hines], [Madeleine McKenzie], and [Mike Veino]
 
+  [IMDb Page]: http://www.imdb.com/title/tt2773070/
+  [Facebook Page]: https://www.facebook.com/TheColdRead
   [Ange Borges]: http://www.imdb.com/name/nm3916105/
   [Anna Rizzo]: http://www.imdb.com/name/nm5042825/
   [Brian Farmer]: http://www.imdb.com/name/nm4492303/
