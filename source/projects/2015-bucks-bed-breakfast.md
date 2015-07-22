@@ -9,7 +9,7 @@ title: Buck's Bed & Breakfast (2015)
  * Directed by [Jeffrey Buchbinder]
  * Starring [Nicholas Magrey], [Arianna Danae], [Debra Leigh Siegel], [Jonathan Demers], [Curtis Reid], [Jessica Rockwood], and [Natasha Darius]
 
-  [IMDb Page]: #
+  [IMDb Page]: http://www.imdb.com/title/tt4874830/
   [Facebook Page]: #
   [Arianna Danae]: http://www.imdb.com/name/nm4622549/
   [Curtis Reid]: http://www.imdb.com/name/nm4840208/
