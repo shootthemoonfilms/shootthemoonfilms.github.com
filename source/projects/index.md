@@ -18,6 +18,7 @@ both completed and in-progress film projects.*
  * [Buck's Bed & Breakfast (2015)](/projects/2015-bucks-bed-breakfast.html) ([IMDb](http://www.imdb.com/title/tt4874830/))
  * [Cause and Effect (2014)](/projects/2014-cause-and-effect.html) ([IMDb](http://www.imdb.com/title/tt3385284/))
  * [Desire (2014)](/projects/2014-desire.html) ([IMDb](http://www.imdb.com/title/tt3713362/)) - Project for the 2014 Boston 48 Hour Film Festival
+ * [Restitution (2015)](/projects/2015-restitution.html) ([IMDb](http://www.imdb.com/title/tt5160544/))
  * [The Carving (2014)](/projects/2014-the-carving.html) ([IMDb](http://www.imdb.com/title/tt4131910/))
  * [The Gift of Fate (2015)](/projects/2015-the-gift-of-fate.html) ([IMDb](http://www.imdb.com/title/tt4694700/))
  * [You've Been Invited (2014)](/projects/2014-youve-been-invited.html) ([IMDb](http://www.imdb.com/title/tt2966834/))
