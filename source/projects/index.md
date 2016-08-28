@@ -14,14 +14,14 @@ both completed and in-progress film projects.*
 
 ## Short Films
 
- * [Acceptance (2015)](/projects/2015-acceptance.html) ([IMDb](http://www.imdb.com/title/tt4681400/))
+ * [Acceptance (2015)](/projects/2015-acceptance.html) ([IMDb](http://www.imdb.com/title/tt4681400/)) - Project for the 2015 Boston 48 Hour Film Festival
  * [All In (2016)](/projects/2016-all-in.html) ([IMDb](http://www.imdb.com/title/tt5729864/))
- * [Buck's Bed & Breakfast (2015)](/projects/2015-bucks-bed-breakfast.html) ([IMDb](http://www.imdb.com/title/tt4874830/))
+ * [Buck's Bed & Breakfast (2015)](/projects/2015-bucks-bed-breakfast.html) ([IMDb](http://www.imdb.com/title/tt4874830/)) - Project for the 2015 Providence 48 Hour Film Festival
  * [Cause and Effect (2014)](/projects/2014-cause-and-effect.html) ([IMDb](http://www.imdb.com/title/tt3385284/))
  * [Desire (2014)](/projects/2014-desire.html) ([IMDb](http://www.imdb.com/title/tt3713362/)) - Project for the 2014 Boston 48 Hour Film Festival
  * [Restitution (2015)](/projects/2015-restitution.html) ([IMDb](http://www.imdb.com/title/tt5160544/))
  * [Spice (2016)](/projects/2016-spice.html) ([IMDb](http://www.imdb.com/title/tt5341518/))
- * [The Carving (2014)](/projects/2014-the-carving.html) ([IMDb](http://www.imdb.com/title/tt4131910/))
+ * [The Carving (2014)](/projects/2014-the-carving.html) ([IMDb](http://www.imdb.com/title/tt4131910/)) - Project for the 2014 Providence 48 Hour Horror Film Festival
  * [The Gift of Fate (2015)](/projects/2015-the-gift-of-fate.html) ([IMDb](http://www.imdb.com/title/tt4694700/))
  * [You've Been Invited (2014)](/projects/2014-youve-been-invited.html) ([IMDb](http://www.imdb.com/title/tt2966834/))
 
@@ -32,4 +32,5 @@ both completed and in-progress film projects.*
 ## Commercial Projects
 
  * [Distinctive Touch Salon](http://www.distinctivetouchsalon.com/), Moosup, CT: Promotional video
- * Risk Taker Studios, Marlborough, MA: Documentary promos
+ * [Risk Taker Studios](https://www.facebook.com/Risk-Taker-Studios-103798183130651/), Marlborough, MA: Documentary promos
+
